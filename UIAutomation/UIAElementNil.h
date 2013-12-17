@@ -5,6 +5,7 @@
 //
 
 #import <Foundation/NSObject.h>
+#import "CDStructures.h"
 
 @class NSInvocation;
 
